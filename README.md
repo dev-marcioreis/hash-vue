@@ -7,7 +7,7 @@ Este projeto será um jogo da velha.
 ## 🚀 Em desenvolvimento...
 
 ## 📋 Tecnologias
-Vue + Vite + Tailwind + Material icons
+Vue + Vite + Material icons
 
 ## ✒️ Autor
 Márcio Reis
