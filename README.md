@@ -7,7 +7,7 @@ Este projeto será um jogo da velha.
 ## 🚀 Em desenvolvimento...
 
 ## 📋 Tecnologias
-Vue + Vite
+Vue + Vite + Tailwind
 
 ## ✒️ Autor
 Márcio Reis
