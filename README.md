@@ -4,7 +4,7 @@
 
 Este projeto será um jogo da velha.
 
-## 🚀 Em desenvolvimento...
+## 🚀 Parado...
 
 ## 📋 Tecnologias
 Vue + Vite + Material icons
@@ -12,9 +12,9 @@ Vue + Vite + Material icons
 ## ✒️ Autor
 Márcio Reis
 
-😊 Link de acesso: https://dev-marcioreis.github.io/hash-vue/
+😊 Link de acesso: 
 
 ---
-![image](https://github.com/dev-marcioreis/hash-vue/assets/122680054/d11feab0-295f-42ae-afe8-558250224095)
+
 
 
