@@ -65,6 +65,7 @@
 
 <template>
   <h1>Jogo da velha</h1>
+  <h2>Jogador: {{ player }}</h2>
 </template>
 
 <style scoped>
